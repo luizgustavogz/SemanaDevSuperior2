@@ -51,7 +51,7 @@
   }
   
   .home-image svg {
-    width: 160% !important;
+    width: 100% !important;
   }
   
   @media only screen and (max-width: 768px) {
